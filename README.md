@@ -44,17 +44,3 @@ I structured the scaffold based on the OOP which seperate concerns of code.
 * Only one API end point is already deployed to Heroku, pull requests are welcome
 
 ------
-
-## Future work
-- [X] Build extra API end points 
-- [ ] Build frontend interface using streamlit
-- [ ] Complete unit tests.
-- [ ] Create a configuration file for travis
-
-------
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
