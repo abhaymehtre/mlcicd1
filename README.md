@@ -1,19 +1,12 @@
 # Machine learning prediction application
-![CircleCI](https://img.shields.io/circleci/build/github/salma71/prediction_app?style=for-the-badge&token=781e1233134910ffefc006ea82a7fe966b5277f2)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/salma71/prediction_app?style=for-the-badge)
-
-
-[![GitHub forks](https://img.shields.io/github/forks/salma71/prediction_app?style=for-the-badge)](https://github.com/salma71/prediction_app/network)
-
-[![GitHub forks](https://img.shields.io/github/stars/salma71/prediction_app?style=for-the-badge)](https://github.com/salma71/prediction_app/network)
 ------
 
 ## Steps of usage
 
 1. Fork or clone this repo to your local machine.
 2. Navigate to the project directory and activate the virtualenv `source dev/bin/activate`
-3. Install requirements `pip install -rrequirements.txt` from the root directory. 
+3. Install requirements `pip install -r requirements.txt` from the root directory. 
 4. Navigate to the packages -> regression_model then run `tox` to make sure that everything is passing. 
 
 ---------
@@ -28,7 +21,6 @@ The following kaggle notebooks includes the complete basic analyses and EDA
 
 [Medium post part_2](https://towardsdatascience.com/how-to-deploy-your-first-machine-learning-models-part-2-9e1d0fcfb68)
 
-[Scaffold template - starter template](https://github.com/salma71/ML_app_scaffold)
 
 ---------
 Notes to consider:
